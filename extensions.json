@@ -147,6 +147,9 @@
   "BriteSnow.vscode-toggle-quotes": {
     "repository": "https://github.com/BriteSnow/vscode-toggle-quotes"
   },
+  "bufbuild.vscode-buf": {
+    "repository": "https://github.com/bufbuild/vscode-buf"
+  },
   "buianhthang.gitflow": {
     "repository": "https://github.com/anhthang/vscode-gitflow"
   },
